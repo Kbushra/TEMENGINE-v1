@@ -1,0 +1,1 @@
+namer = "Ruins - Room exit";

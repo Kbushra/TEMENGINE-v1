@@ -1,0 +1,1 @@
+if global.debug { file_delete("TEMENGINE.ini"); }

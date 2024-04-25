@@ -1,0 +1,1 @@
+if halfMemo { room_goto(roomID); }

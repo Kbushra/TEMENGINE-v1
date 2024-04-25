@@ -1,0 +1,1 @@
+if global.doorID == -1 { global.doorID = doorID; cam_flash(c_black, 0.05, 0, id); }

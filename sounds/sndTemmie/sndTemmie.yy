@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndTemmie",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":12.422688,
+  "name":"sndTemmie",
+  "parent":{
+    "name":"NPC sounds",
+    "path":"folders/Sounds/SFX/NPC sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndTemmie.wav",
+  "type":0,
+  "volume":1.0,
+}

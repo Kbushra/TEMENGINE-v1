@@ -1,0 +1,1 @@
+if image_index >= currFace * 2 + 2 { image_index = currFace * 2; }

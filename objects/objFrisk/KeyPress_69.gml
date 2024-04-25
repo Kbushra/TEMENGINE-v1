@@ -1,0 +1,1 @@
+if global.debug { encountered = true; global.friskState = 1; }
